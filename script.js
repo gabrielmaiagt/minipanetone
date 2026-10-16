@@ -1,5 +1,5 @@
 // Configure os links reais de checkout para ativar as compras.
-const checkoutLinks = { basico: '', completo: '' };
+const checkoutLinks = { basico: 'https://pay.cakto.com.br/sx8qygn', completo: 'https://pay.cakto.com.br/63bx672' };
 const plans = {
   basico: { name: 'Pacote Básico', price: 'R$ 12,90', description: 'Acesso à área completa: 80 receitas, PDFs, 11 aulas públicas de apoio e os 5 bônus.' },
   completo: { name: 'Pacote Completo', price: 'R$ 19,90', description: 'Acesso à área completa: 80 receitas, PDFs, 11 aulas públicas de apoio e os 5 bônus.' }

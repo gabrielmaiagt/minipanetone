@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-10-16",
+  "products": [
+    {
+      "id": "db1c95b0-7642-4d54-9ea4-6209ad0bded6",
+      "name": "Cesta de Natal com Mini Panetone",
+      "status": "active",
+      "price": "12.90",
+      "offer": "9yoqh8p",
+      "checkoutUrl": "https://pay.cakto.com.br/9yoqh8p"
+    },
+    {
+      "id": "48376fbd-a5fa-4f31-b14b-ca64abe945e5",
+      "name": "Embalagem de R$ 1 que parece de loja",
+      "status": "active",
+      "price": "7.90",
+      "offer": "wsattxf",
+      "checkoutUrl": "https://pay.cakto.com.br/wsattxf"
+    },
+    {
+      "id": "c15976fe-e3cf-4983-9cc8-41d9fd433353",
+      "name": "Linha Gourmet",
+      "status": "active",
+      "price": "27.00",
+      "offer": "jbgtdgj",
+      "checkoutUrl": "https://pay.cakto.com.br/jbgtdgj"
+    }
+  ],
+  "mainProducts": {
+    "basico": {
+      "id": "5065f0cd-084e-47a6-94b9-63ebcdf0d1a3",
+      "name": "80 Receitas de Mini Panetones e Chocotones — Pacote Básico",
+      "status": "active",
+      "price": "12.90",
+      "offer": "sx8qygn",
+      "checkoutUrl": "https://pay.cakto.com.br/sx8qygn"
+    },
+    "completo": {
+      "id": "c3df324d-9c53-4ee9-b1bf-c13051090411",
+      "name": "80 Receitas de Mini Panetones e Chocotones — Pacote Completo",
+      "status": "active",
+      "price": "19.90",
+      "offer": "63bx672",
+      "checkoutUrl": "https://pay.cakto.com.br/63bx672"
+    }
+  },
+  "upsell": {
+    "page": "upsell/index.html",
+    "oneClickConfigured": false,
+    "redirectConfigured": false
+  },
+  "bumpsConfigured": true,
+  "bumps": [
+    {
+      "id": "6wkH5G6",
+      "plan": "basico",
+      "offer": "9yoqh8p"
+    },
+    {
+      "id": "3Ws7Pku",
+      "plan": "basico",
+      "offer": "wsattxf"
+    },
+    {
+      "id": "4ZeuxLa",
+      "plan": "completo",
+      "offer": "9yoqh8p"
+    }
+  ]
+}
